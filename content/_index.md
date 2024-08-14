@@ -13,13 +13,11 @@ actions:
     title: "Jimmy's Gallery 📸"
 ---
 
-# について
+## について
+
 {{< persona thumbnail="/img/profile.jpg" title="林鈞唯" color="primary" >}}
   (這個網站是用來幹嘛的)
 
   大家好，我是林鈞唯，現在就讀台大生醫電資所二年級！
 
-
 {{< /persona >}}
-
-## 這裡是一些貼文
