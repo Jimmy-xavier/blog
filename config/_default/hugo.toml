@@ -1,11 +1,11 @@
-title = "Hinode"
-copyright = "Copyright © 2024 Mark Dumay."
+title = "Jimmy's Blog"
+copyright = "Copyright © 2024 Jimmy Lin."
 paginate = 9
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
-canonifyURLs = false
+baseURL = "https://jimmy-xavier.github.io/blog/"
+canonifyURLs = true
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
