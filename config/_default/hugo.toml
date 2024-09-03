@@ -4,8 +4,8 @@ paginate = 9
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
-# baseURL = "https://jimmy-xavier.github.io/blog/"
+# baseURL = "https://example.com/"
+baseURL = "https://jimmy-xavier.github.io/blog/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
