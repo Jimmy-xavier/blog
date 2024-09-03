@@ -33,7 +33,7 @@
 
 [navigation]
     anchor = true
-    logo = "/assets/img/favi.svg"
+    logo = "/img/logo.svg"
     color = "body"
     fixed = true
     offset = "5.5rem"
