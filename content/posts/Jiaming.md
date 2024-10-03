@@ -40,7 +40,7 @@ modules: ["leaflet"]
 {{< image src="img/Jiaming/13.jpg" wrapper="col-12 mx-auto" caption="蛋黃">}}
 {{< image src="img/Jiaming/16.jpg" wrapper="col-12 mx-auto" caption="😊">}}
 {{< image src="img/Jiaming/18.jpg" wrapper="col-12 mx-auto" caption="🤠">}}
-{{< image src="img/Jiaming/20.jpg" wrapper="col-12 mx-auto" caption="🌲 🚶‍♂️‍➡️">}}
+{{< image src="img/Jiaming/20.jpg" wrapper="col-12 mx-auto" caption="🌲 🚶‍♂">}}
 {{< image src="img/Jiaming/23.jpg" wrapper="col-12 mx-auto" caption="抵達嘉明湖！">}}
 {{< image src="img/Jiaming/25.jpg" wrapper="col-12 mx-auto" caption="湖面泛起細緻的波紋">}}
 {{< image src="img/Jiaming/26.jpg" wrapper="col-12 mx-auto" caption="真的是一面鏡子">}}
