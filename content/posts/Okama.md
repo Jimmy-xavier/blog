@@ -52,7 +52,7 @@ modules: ["leaflet"]
 回來台灣後，用Google Earth Studio回顧自己走過的路
 (藏王山頂站->御釜->刈田嶺神社)
 {{< youtube h3XUNUS4624 >}}
-{{< link "https://jimmy-xavier.github.io/gallery/%E7%95%A2%E6%A5%AD%E6%97%85%E8%A1%8C/%E5%BE%A1%E9%87%9C/" >}}👉其他照片{{< /link >}}
+{{< link "https://reurl.cc/yv403M" >}}👉其他照片{{< /link >}}
 
 ## 其他
 
