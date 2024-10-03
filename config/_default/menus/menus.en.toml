@@ -4,27 +4,27 @@
   weight = 10
 
 [[main]]
-  name = "Tags"
+  name = "Tag"
   pageRef = "/tags"
   weight = 20
 
 [[social]]
-  name = "LinkedIn"
-  pre = "fab linkedin"
-  url = "https://linkedin.com/"
+  name = "Instagram"
+  pre = "fab instagram"
+  url = "https://www.instagram.com/a_wei_drawer/"
   weight = 10
 
-[[social]]
-  name = "GitHub"
-  pre = "fab fa-github"
-  url = "https://github.com/"
-  weight = 20
+# [[social]]
+  # name = "Youtube"
+  # pre = "fab youtube"
+  # url = "https://www.youtube.com/channel/UCyz4bBUizrgw76yhiOE9eJA"
+  # weight = 20
 
-[[social]]
-  name = "Medium"
-  pre = "fab medium"
-  url = "https://medium.com/"
-  weight = 30
+# [[social]]
+  # name = "Medium"
+  # pre = "fab medium"
+  # url = "https://medium.com/"
+  # weight = 30
 
 # toml-docs-start sample-navigation
 [[sample]]

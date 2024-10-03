@@ -26,7 +26,7 @@
     checkVersion = false
 
 [home]
-    # sections = ["posts"]
+    sections = ["posts"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -48,58 +48,58 @@
     placement = "bottom-right"
 
 [sharing]
-    enabled = true
+    enabled = false
     sort = "weight"
     reverse = false
-    webshare = true
+    webshare = false
 
-[[sharing.providers]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
-    icon = "fab linkedin"
-    weight = 10
+# [[sharing.providers]]
+    # name = "LinkedIn"
+    # url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
+    # icon = "fab linkedin"
+    # weight = 10
 
-[[sharing.providers]]
-    name = "Twitter"
-    url = "https://twitter.com/home?status={url}"
-    icon = "fab x-twitter"
-    weight = 20
+# [[sharing.providers]]
+    # name = "Twitter"
+    # url = "https://twitter.com/home?status={url}"
+    # icon = "fab x-twitter"
+    # weight = 20
 
-[[sharing.providers]]
-    name = "Facebook"
-    url = "https://www.facebook.com/sharer.php?u={url}"
-    icon = "fab facebook"
-    weight = 30
+# [[sharing.providers]]
+    # name = "Facebook"
+    # url = "https://www.facebook.com/sharer.php?u={url}"
+    # icon = "fab facebook"
+    # weight = 30
 
-[[sharing.providers]]
-    name = "WhatsApp"
-    url = "whatsapp://send?text={title}%20{url}"
-    icon = "fab whatsapp"
-    weight = 40
+# [[sharing.providers]]
+    # name = "WhatsApp"
+    # url = "whatsapp://send?text={title}%20{url}"
+    # icon = "fab whatsapp"
+    # weight = 40
 
-[[sharing.providers]]
-    name = "email"
-    url = "{url}"
-    icon = "fas link"
-    weight = 50
-    clipboard = true
+# [[sharing.providers]]
+    # name = "email"
+    # url = "{url}"
+    # icon = "fas link"
+    # weight = 50
+    # clipboard = true
 
 # toml-docs-start sections
-# [sections]
-#     [sections.posts]
-#         title = "Posts"
-#         sort = "date"
-#         reverse = true
-#         nested = true
-#         cols = 3
-#         color = ""
-#         padding = "0"
-#         header = "full"
-#         footer = "none"
-#         orientation = "stacked"
-#         style = "border-0 card-zoom"
-#         homepage = 3
-#         separator = true
+[sections]
+    [sections.posts]
+        title = "Posts"
+        sort = "date"
+        reverse = true
+        nested = true
+        cols = 4
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 4
+        separator = true
 # toml-docs-end sections
 
 [favicon]
