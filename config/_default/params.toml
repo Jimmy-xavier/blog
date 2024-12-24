@@ -91,14 +91,14 @@
         sort = "date"
         reverse = true
         nested = true
-        cols = 4
+        cols = 3
         color = ""
         padding = "0"
         header = "full"
         footer = "none"
         orientation = "stacked"
         style = "border-0 card-zoom"
-        homepage = 4
+        homepage = 3
         separator = true
 # toml-docs-end sections
 
