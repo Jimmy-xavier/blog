@@ -19,10 +19,12 @@ modules: ["leaflet"]
 ## 交通方式
 
 {{< table >}}
+
 | 起訖 | 路線 | 備註 |
 |---------|---------|---------|
 | JR盛岡->JR田澤湖 | 新幹線 | JR Pass 東日本鐵路周遊券（東北地區） |
 | JR田澤湖->田澤湖畔 | 計程車 | 沒做功課，錯過巴士接駁時間🥲 |
+
 {{< /table >}}
 
 {{< image src="img/Tazawako/02.jpg" wrapper="col-12 mx-auto" caption="乘車券 + 早餐">}}

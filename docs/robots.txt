@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://jimmy-xavier.github.io/blog/sitemap.xml
